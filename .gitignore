@@ -1,0 +1,14 @@
+# OS related
+.DS_Store
+
+# Environment
+/.idea/
+
+# Modules
+/node_modules/
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+!.yarn/cache

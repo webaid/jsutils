@@ -1,0 +1,8 @@
+/.github/
+/test/
+.editorconfig
+.eslintrc.json
+.gitignore
+.jest.config.js
+tsconfig.json
+yarn.lock
